@@ -1,0 +1,8 @@
+fastq1:
+  class: File
+  format: edam:format_2182
+  location: L001_R1_001.fastq.gz
+fastq2:
+  class: File
+  format: edam:format_2182
+  location: L001_R2_001.fastq.gz

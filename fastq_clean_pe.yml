@@ -1,0 +1,22 @@
+input:
+  forward_fastq:
+    class: File
+    format: edam:format_2182
+    location: L001_R1_001.fastq.gz
+  reverse_fastq:
+    class: File
+    format: edam:format_2182
+    location: L001_R2_001.fastq.gz
+  readgroup_meta_pe_file:
+    CN: SFGF
+    DS: null
+    DT: null
+    ID: READGROUP01
+    FO: null
+    KS: null
+    LB: LIBRARY01
+    PI: null
+    PL: ILLUMINA
+    PM: null
+    PU: READGROUP01.1.CCCCCTGA+TTTCTACG
+    SM: SAMPLE01
